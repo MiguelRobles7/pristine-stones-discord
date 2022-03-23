@@ -1,0 +1,172 @@
+/**
+ * @name Pristine Stones
+ * @author MiguelRobles7
+ * @version 1.0.0
+ * @description Discord Theme
+ * @website https://github.com/miguelrobles7
+ * @source https://github.com/miguelrobles7
+**/
+
+.theme-dark {
+    --header-primary: #DEE0F2 !important;
+    --background-primary: #191B22 !important;
+    --background-primary-alt: #191B22 !important;
+    --background-mobile-primary: #191B22 !important;
+    --background-secondary: #1A2026 !important;
+    --background-secondary-alt: #1A2026 !important;
+    --background-mobile-secondary: #1A2026 !important;
+    --background-tertiary: #18191D !important;
+    --background-floating: #191B22 !important;
+    --background-mentioned: rgba(221, 182, 242, 0.1) !important;
+    --background-mentioned-hover: rgba(245, 194, 231, 0.2) !important;
+    --channeltextarea-background: #2D2F37 !important;
+    --activity-card-background: #191B22 !important;
+    --scrollbar-thin-thumb: #18191D !important;
+    --scrollbar-thin-track: #18191D !important;
+    --scrollbar-auto-thumb: #18191D !important;
+    --scrollbar-auto-track: #2D2F37 !important;
+    --scrollbar-auto-scrollbar-color-thumb: #2D2F37 !important;
+    --scrollbar-auto-scrollbar-color-track: #2D2F37 !important;
+    --deprecated-store-bg: #18191D !important;
+    --interactive-normal: #DEE0F2 !important;
+}
+
+
+/* Mentions */
+
+.mentioned-Tre-dv .mention.interactive {
+    color: #DEE0F2 !important;
+}
+
+.mentioned-Tre-dv::before {
+    background-color: #DEE0F2 !important;
+}
+
+
+/* Home */
+
+.container-2cd8Mz {
+    background-color: #191B22 !important;
+}
+
+
+/* Autocomplete popup */
+
+.autocomplete-3NRXG8 {
+    background-color: #191B22 !important;
+}
+
+.wrapper-1NNaWG.categoryHeader-OpJ1Ly {
+    background-color: #191B22 !important;
+}
+
+.autocomplete-3NRXG8 {
+    background-color: #191B22 !important;
+}
+
+
+/* Autocomplete popup selection */
+
+.selected-3H3-RC {
+    background-color: #2D2F37 !important;
+}
+
+
+/* Search: Items */
+
+.container-2McqkF {
+    background-color: #2D2F37 !important;
+}
+
+.searchOption-351dTI:hover {
+    background-color: #18191D !important;
+}
+
+
+/* Search: No shadows */
+
+.option-2KkUJO:after {
+    background: none !important;
+}
+
+
+/* Search: in-section */
+
+.queryContainer-ZunrLZ {
+    background-color: #2D2F37 !important;
+}
+
+
+/* Search: History */
+
+.option-2KkUJO:hover {
+    background-color: #18191D !important;
+}
+
+
+/* IN ORDER: New-Unreads-Btn,jumpToPresentBar,CTRL+K,searchFilterOption */
+
+.bar-2eAyLE,
+.jumpToPresentBar-1cEnH0,
+.input-3r5zZY,
+.searchFilter-2UfsDk {
+    background-color: #2D2F37 !important;
+}
+
+
+/* New Message Bar */
+
+.newMessagesBar-1hF-9G:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #373941 !important;
+    border-radius: 0 0 3px 3px;
+}
+
+
+/* New Messages Flag */
+
+.isUnread-3Lojb- {
+    border-color: #373941 !important;
+}
+
+.unreadPill-3nEWYM {
+    background-color: #373941 !important;
+}
+
+.unreadPillCapStroke-1nE1Q8 {
+    fill: #373941 !important;
+    color: #373941 !important;
+}
+
+.isUnread-3Lojb- .content-3spvdd {
+    color: #373941 !important;
+}
+
+
+/* URLs */
+
+.button-1kija8,
+.buttonIcon-1TxM6f {
+    color: #89DCEB !important;
+}
+
+.fakeLink-2FvUR7,
+.embed-hKpSrO>.embedTitleLink-1QbYA-,
+.markup-eYLPri a,
+.content-s2SEQO a,
+.colorLink-2apWfY {
+    color: #89DCEB !important;
+}
+
+.card-16VQ8C a {
+    color: #89DCEB !important;
+}
+
+.lookLink-15mFoz.colorLink-1Md3RZ {
+    color: #89DCEB !important;
+}

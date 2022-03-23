@@ -1,0 +1,9 @@
+{
+    "name": "Pristine Stones",
+    "description": "Discord Theme",
+    "version": "1.0.0",
+    "author": "MiguelRobles7",
+    "theme": "/pristine-stones.theme.css",
+    "license": "MIT",
+    "consent": "true"
+}
